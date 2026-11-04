@@ -1,9 +1,11 @@
-const CACHE_NAME = 'rigmate-shell-v3';
+const CACHE_NAME = 'rigmate-shell-v5';
 const APP_SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
   './weather-service.js',
+  './map-service.js',
+  './live-data.js',
   './assets/rigmate-icon.svg',
   './assets/rigmate-truck-bg.png'
 ];
