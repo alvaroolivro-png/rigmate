@@ -16,7 +16,7 @@ Open `http://127.0.0.1:8765/index.html` in Chrome. The install prompt and servic
 
 For an installable link on the Pixel, Rigmate must be hosted at an HTTPS address. After it is hosted, open that URL in Chrome on the Pixel, then use Chrome's menu and choose **Install app** or **Add to Home screen**.
 
-Publishing this prototype to a public URL would expose the source code. Get Al's approval before creating a public deployment. A private host or signed Android package is another option.
+Public demo: https://alvaroolivro-png.github.io/rigmate/. It is a publicly visible prototype and the source code is public. The listings, trip, ETA, and locations are sample data only; no live load-board or booking integration is connected.
 
 ## Current screens
 
