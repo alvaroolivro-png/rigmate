@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Rigmate app icon">
+  <rect width="512" height="512" rx="112" fill="#172322"/>
+  <path d="M72 314h32v-83h108c35 0 55 18 55 48 0 18-9 33-24 41l34 49h-42l-28-42h-64v42h-36V199h148c57 0 90 31 90 79 0 32-17 57-46 69l54 79h-47l-48-70c-13 2-25 3-40 3h-74v67H72z" fill="#f2b84b"/>
+  <path d="M317 199h79c31 0 51 17 51 44s-20 44-51 44h-79z" fill="#e5eee5"/>
+  <path d="M324 218v50h71c18 0 29-10 29-25s-11-25-29-25z" fill="#244c3b"/>
+  <circle cx="137" cy="402" r="19" fill="#e5eee5"/>
+  <circle cx="351" cy="402" r="19" fill="#e5eee5"/>
+</svg>

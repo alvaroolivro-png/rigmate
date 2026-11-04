@@ -1,0 +1,11 @@
+# Local credentials and API tokens
+.env
+.env.*
+!.env.example
+
+# Build output and dependencies
+node_modules/
+dist/
+
+# Logs
+*.log

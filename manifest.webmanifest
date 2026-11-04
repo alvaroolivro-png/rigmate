@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Rigmate — Trucker Agent",
+  "short_name": "Rigmate",
+  "description": "Your trucking companion for trip planning, loads, and road locations.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f2ec",
+  "theme_color": "#172322",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/rigmate-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
